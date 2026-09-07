@@ -877,6 +877,3 @@ to the LQ permanent income or consumption smoothing model.
 The technical issue discussed there is ultimately the source of the shock-invertibility issues discussed by
 Eric Leeper, Todd Walker, and Susan Yang {cite}`Leeper_Walker_Yang` in their  analysis of **fiscal foresight**.
 
-
-
-A sentence added here as a drift-check demo fixture (QuantEcon/project-monorepo#8). This lecture is promoted to the pool from this sandbox, so the edit should surface as a refresh, not as drift.

@@ -1102,5 +1102,3 @@ problem, there exists another realization $\tilde s^t$ with
 the same history up until the previous period, i.e., $\tilde s^{t-1}=
 s^{t-1}$, but where the multiplier on constraint {eq}`AMSS_46` takes  a positive value, so
 $\gamma_t(\tilde s^t)>0$.
-
-A sentence added on the dp copy only, as a drift-check demo fixture (QuantEcon/project-monorepo#8). The canonical copy of this lecture lives in lecture-python-advanced.myst; this edit should surface as a drift issue and never be merged upstream.
