@@ -70,8 +70,8 @@ parts:
   - file: calvo_abreu
   - file: opt_tax_recur
   - file: amss
-  - file: amss2
   - file: amss3
+  - file: amss2
   - file: chang_ramsey
   - file: chang_credible
 - caption: Other
